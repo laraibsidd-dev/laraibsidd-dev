@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="./workbench.jpg" width="176" height="176" alt="">
+</p>
 
-<!--
-**laraibsidd-dev/laraibsidd-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Laraib Siddiqui</h1>
 
-Here are some ideas to get you started:
+<p align="center"><strong>Data engineer</strong> · Discovery tools and side projects</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build data pipelines. My side projects usually start with a question I keep having to answer by hand.
+
+## Selected projects
+
+### [Panel Club](https://panel-club-seven.vercel.app/) · Live
+
+**What should I watch next?** I built a searchable catalog of comedy panel shows and roasts from India and the US. You can find episodes by show, host, or guest and watch through the official player.
+
+### [Deal Hunter](https://github.com/laraib-sidd/deal-hunter) · In development
+
+**Is this used GPU a good deal?** I built a dashboard that collects second-hand hardware listings in India, matches them to a hardware catalog, and scores deals against price history.
